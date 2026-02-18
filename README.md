@@ -1,7 +1,7 @@
 <h1 align="center">Olá, meu nome é Marcos Vinicius.</h1>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/OpenAI_ChatGPT_logo.svg" width="28">
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/8/8e/OpenAI_ChatGPT_logo.svg](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazQ1aWVodWRvZHV1a293M3R4OGl6aGNsbzRqajh1eWtud2k3cnh0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f0VbswUmSY6X1cBz4C/giphy.gif)" width="28">
 </p>
 
 <p align="center">
