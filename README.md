@@ -62,4 +62,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/dYyKPmFbcH1bY/giphy.gif" width="40">
+  <strong> +55 (19)98261-9876</strong>
+</p>
+
+
 <h3 align="center">Obrigado pela visita 👌</h3>
