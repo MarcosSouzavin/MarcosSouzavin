@@ -36,10 +36,6 @@
 ## 📊 Minhas estatísticas
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding gif"/>
-</p>
-
-<p align="center">
   <img height="170em" src="https://streak-stats.demolab.com?user=MarcosSouzaVin&theme=tokyonight"/>
 </p>
 
