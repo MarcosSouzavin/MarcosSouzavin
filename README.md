@@ -6,7 +6,7 @@
 
 <p align="center">
   Desenvolvedor Back-End apaixonado por tecnologia, aprendizado rápido,
-  gestão de sistemas e criação de soluções em JavaScript, PHP, Python, C# e banco de dados.
+  gestão de sistemas e criação de sistemas em PHP, Python, C# e a integração ao banco de dados.
 </p>
 
 ---
