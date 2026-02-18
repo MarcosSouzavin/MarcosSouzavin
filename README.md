@@ -39,11 +39,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding gif"/>
 </p>
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MarcosSouzaVin&show_icons=true&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSouzaVin&layout=compact&theme=tokyonight"/>
-</div>
-
 <p align="center">
   <img height="170em" src="https://streak-stats.demolab.com?user=MarcosSouzaVin&theme=tokyonight"/>
 </p>
